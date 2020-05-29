@@ -16,4 +16,4 @@ Please download the dataset from below:
 
 [Housing Dataset](Housing.csv)
 
-[Multiple Linear Regression](Multiple Linear Regression.ipynb)
+[Multiple Linear Regression](MultipleLinearRegression.ipynb)
