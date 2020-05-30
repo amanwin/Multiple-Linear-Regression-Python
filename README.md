@@ -17,3 +17,10 @@ Please download the dataset from below:
 [Housing Dataset](Housing.csv)
 
 [Multiple Linear Regression](MultipleLinearRegression.ipynb)
+
+---
+## Variable Selection using RFE (Recursive feature elimination)
+
+Even though the housing dataset doesn’t have many variables and you can easily select the relevant features manually, it is important to learn to use certain automated techniques as well.
+
+[Multiple Linear Regression using RFE](MultipleLinearRegression.ipynb)
