@@ -23,4 +23,4 @@ Please download the dataset from below:
 
 Even though the housing dataset doesn’t have many variables and you can easily select the relevant features manually, it is important to learn to use certain automated techniques as well.
 
-[Multiple Linear Regression using RFE](MultipleLinearRegression.ipynb)
+[Multiple Linear Regression using RFE](MultipleLinearRegressionRFE.ipynb)
